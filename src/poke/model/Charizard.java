@@ -1,6 +1,6 @@
 package poke.model;
 
-public interface Lighting
+public class Charizard
 {
 
 }
