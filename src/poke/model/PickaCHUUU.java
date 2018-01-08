@@ -23,9 +23,9 @@ public class PickaCHUUU extends Pokemon implements Lightning
 	
 	protected void setup()
 	{
-		this.setAttackPoints(666);
+		this.setAttackPoints(999);
 		this.setCanEvolve(false);
 		this.setEnhancementModifier(.89);
-		this.setHealthPoints(666);
+		this.setHealthPoints(425);
 	}
 }
