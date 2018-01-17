@@ -26,6 +26,6 @@ public class Snorlax extends Pokemon implements Fairy
 		this.setAttackPoints(75);
 		this.setCanEvolve(false);
 		this.setEnhancementModifier(.70);
-		this.setHealthPoints(10000);
+		this.setHealthPoints(100000);
 	}
 }

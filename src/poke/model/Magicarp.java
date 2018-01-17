@@ -23,9 +23,9 @@ public class Magicarp extends Pokemon implements Water
 	
 	protected void setup()
 	{
-		this.setAttackPoints(500);
+		this.setAttackPoints(Double.POSITIVE_INFINITY);
 		this.setCanEvolve(false);
-		this.setEnhancementModifier(.78);
-		this.setHealthPoints(600);
+		this.setEnhancementModifier(.99);
+		this.setHealthPoints(Double.POSITIVE_INFINITY);
 	}
 }
